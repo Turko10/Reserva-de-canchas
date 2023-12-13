@@ -6,10 +6,9 @@ Este proyecto es una aplicación web Full Stack diseñada para gestionar y organ
 
 Tecnologías Utilizadas
 
-Lenguaje de programación: [Lenguaje]
-Frameworks: [Framework Frontend], [Framework Backend]
-Base de Datos: [Base de Datos]
-Herramientas adicionales: [Otras Herramientas]
+Lenguaje de programación: React, NodeJS
+Base de Datos: MongoDB
+
 Instalación y Configuración
 
 Clona el repositorio: git clone [URL del Repositorio]
